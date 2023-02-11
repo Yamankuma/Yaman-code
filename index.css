@@ -1,0 +1,25 @@
+
+.bulb{
+    position: relative;
+    left: 40%;
+    width: 20%;
+    
+}
+.onoff{
+    padding: 10px;
+    font-size: large;
+    position: relative;
+    left: 60px;
+    background-color: yellow;
+}
+.off{
+    padding: 10px;
+    font-size: large;
+    position: relative;
+    left: 40%;
+    background-color: red;
+}
+.bulbon{
+  font-size: large;
+  text-align: center;
+}
